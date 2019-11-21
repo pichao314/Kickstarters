@@ -22,3 +22,9 @@ The dataset is 56 MB that has 99,000 records of Kickstarter projects range from 
 - scipy (1.3.2)
 - seaborn (0.9.0)
 - wordcloud (1.5.0)
+
+## Running Instruction
+
+- Place the dataset on the parent folder or change the direction in the source code to run the code
+- Make sure the package is correctly installed with specified or above versions
+- The code is tested with Windows 10 Pro 1909, macos catalina, ubuntu 18.04.3 LTS
