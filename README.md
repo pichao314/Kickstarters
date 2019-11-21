@@ -8,7 +8,7 @@ Our proposed project will be building a classification system that tries to figu
 Dataset to be used:
 
 ## Datasets
-Kickstarter: https://www.kaggle.com/wood2174/mapkickstarter
+Kickstarter: https://www.kaggle.com/wood2174/mapkickstarter#MasterKickstarter.csv
 
 The dataset is 56 MB that has 99,000 records of Kickstarter projects range from 2009 to 2017. There is a total of 57 attributes for each records that representing the projects’ origin, title, description, pledged amount and launch duration and etc. Not all the attributes in this dataset are useful and will be preprocessed in order to produce a satisfactory result for our project.
 
