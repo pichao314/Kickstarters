@@ -11,3 +11,14 @@ Dataset to be used:
 Kickstarter: https://www.kaggle.com/wood2174/mapkickstarter
 
 The dataset is 56 MB that has 99,000 records of Kickstarter projects range from 2009 to 2017. There is a total of 57 attributes for each records that representing the projects’ origin, title, description, pledged amount and launch duration and etc. Not all the attributes in this dataset are useful and will be preprocessed in order to produce a satisfactory result for our project.
+
+## Required Package Version
+
+- ipython (7.9.0)
+- matplotlib (3.1.1)
+- numpy (1.17.4)
+- pandas (0.25.3)
+- scikit-learn (0.21.3)
+- scipy (1.3.2)
+- seaborn (0.9.0)
+- wordcloud (1.5.0)
